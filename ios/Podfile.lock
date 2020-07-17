@@ -1,22 +1,22 @@
 PODS:
-  - MultiplatformBleAdapter (0.1.5)
+  - MultiplatformBleAdapter (0.1.6)
 
 DEPENDENCIES:
-  - "MultiplatformBleAdapter (from `git@github.com:dpwiese/MultiPlatformBleAdapter.git`, commit `66b7323c2fdd56f72a833bd42b038ade4a435405`)"
+  - "MultiplatformBleAdapter (from `git@github.com:dpwiese/MultiPlatformBleAdapter.git`, commit `e1cc5411167147804225a8141c294a8795ddfc36`)"
 
 EXTERNAL SOURCES:
   MultiplatformBleAdapter:
-    :commit: 66b7323c2fdd56f72a833bd42b038ade4a435405
+    :commit: e1cc5411167147804225a8141c294a8795ddfc36
     :git: "git@github.com:dpwiese/MultiPlatformBleAdapter.git"
 
 CHECKOUT OPTIONS:
   MultiplatformBleAdapter:
-    :commit: 66b7323c2fdd56f72a833bd42b038ade4a435405
+    :commit: e1cc5411167147804225a8141c294a8795ddfc36
     :git: "git@github.com:dpwiese/MultiPlatformBleAdapter.git"
 
 SPEC CHECKSUMS:
-  MultiplatformBleAdapter: 3c4391d428382738a47662ae1f665a29ce78ff39
+  MultiplatformBleAdapter: 652f47ecd7f5036756517cf66833210709a72eab
 
-PODFILE CHECKSUM: d11fa89ffd28dabfb17ed20cb392684d15aab139
+PODFILE CHECKSUM: cd32b7e68d791e0a4f7120fcf4e09e4c07c1c413
 
 COCOAPODS: 1.9.3
